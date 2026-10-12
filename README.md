@@ -7,6 +7,13 @@ Interested in Artificial Intelligence, and DevOps.
 
 ## ⭐ Featured Projects
 
+### ⚙️ Automatization of DevOps with Generative AI and Agentic AI (PFE)
+End-of-studies project carried out at Talan Tunisie's Innovation Factory: DevFlow AI, a multi-agent platform that automates DevOps workflows using generative AI and agentic AI. It turns a natural-language prompt into ready-to-use DevOps artifacts and integrates them into a DevOps pipeline.
+ 
+🔗 https://github.com/ahmedkbenzid/PFE-Automatization-of-DevOps-with-Generative-AI-and-Agentic-AI
+
+---
+
 ### 🤖 AI-Powered Email Copilot for Enterprise Support
 An intelligent AI system that assists enterprise support teams by understanding incoming emails, generating draft responses, and improving support efficiency using NLP techniques.
 
@@ -38,3 +45,4 @@ The work emphasizes build automation, testing, and deployment workflows rather t
 
 ## 📫 Contact
 - GitHub: https://github.com/ahmedkbenzid
+- Linkedin: https://www.linkedin.com/in/ahmed-kamel-ben-zid-a93b3829a
